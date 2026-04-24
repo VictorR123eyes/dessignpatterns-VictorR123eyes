@@ -1,5 +1,8 @@
 package edu.ucaldas.behavior;
 
+/**
+ * Manejador concreto para solicitudes avanzadas.
+ */
 public class ManagerHandler extends Handler {
 
     @Override

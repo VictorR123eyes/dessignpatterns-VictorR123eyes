@@ -1,5 +1,8 @@
 package edu.ucaldas.structural;
 
+/**
+ * Decorador concreto - Agrega funcionalidad SMS al Notifier base.
+ */
 public class SMSNotifier extends NotifierDecorator {
 
     public SMSNotifier(Notifier wrappee) {

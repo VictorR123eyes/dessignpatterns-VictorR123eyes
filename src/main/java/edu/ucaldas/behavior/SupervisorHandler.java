@@ -1,5 +1,8 @@
 package edu.ucaldas.behavior;
 
+/**
+ * Manejador concreto para solicitudes intermedias.
+ */
 public class SupervisorHandler extends Handler {
 
     @Override

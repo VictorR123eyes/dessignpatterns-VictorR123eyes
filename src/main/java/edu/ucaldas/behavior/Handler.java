@@ -1,5 +1,8 @@
 package edu.ucaldas.behavior;
 
+/**
+ * Clase abstracta base para el patrón Chain of Responsibility.
+ */
 public abstract class Handler {
     protected Handler next;
 
